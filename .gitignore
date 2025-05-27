@@ -24,8 +24,6 @@ yarn-error.log*
 
 # my ignores
 *.json
-db/
-audio_files/
 tmp/
 .vscode
 logs
