@@ -23,9 +23,5 @@ yarn-error.log*
 
 
 # my ignores
-*.json
-tmp/
 .vscode
-logs
 __pycache__
-build/
